@@ -4,8 +4,11 @@ body {
 
 p,h1 {
     color:white;
+    font-family: "Kanit";
 }
 
 b {
     color:red;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat+Alternates&display=swap');
